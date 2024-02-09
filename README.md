@@ -8,4 +8,4 @@ Programa en lenguaje C para la conversión de números de una base a otra.
 - SOSA CORTEZ MISAEL IVAN
 
 ## Vídeo de la compilación del código
-[https://drive.google.com/file/d/1coVrUl6zSRJzjwQBW0Q-9ENcKgRNVtnr/view?usp=sharing]
+- [Dar clic aquí] (https://drive.google.com/file/d/1coVrUl6zSRJzjwQBW0Q-9ENcKgRNVtnr/view?usp=sharing)
