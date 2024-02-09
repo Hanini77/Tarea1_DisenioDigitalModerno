@@ -7,5 +7,5 @@ Programa en lenguaje C para la conversión de números de una base a otra.
 - NIETO RODRIGUEZ TOMAS ANDRES
 - SOSA CORTEZ MISAEL IVAN
 
-## Vídeo de la compilación del código
-<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF4emxmYjMyYXNlaXV1enV5MTA4bXhmNzlkcmZ1MHQxZ3B1MG5uNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mVIr0FQLRnR7eEFwGR/giphy.gif' height='70'> Dar click aquí para acceder al vídeo: https://drive.google.com/file/d/1coVrUl6zSRJzjwQBW0Q-9ENcKgRNVtnr/view?usp=sharing
+## <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF4emxmYjMyYXNlaXV1enV5MTA4bXhmNzlkcmZ1MHQxZ3B1MG5uNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mVIr0FQLRnR7eEFwGR/giphy.gif' height='60'> VÍDEO DE LA COMPILACIÓN DEL CÓDIGO
+Dar click aquí para acceder al vídeo: https://drive.google.com/file/d/1coVrUl6zSRJzjwQBW0Q-9ENcKgRNVtnr/view?usp=sharing
